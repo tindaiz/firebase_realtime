@@ -19,3 +19,4 @@ Security Rules example:
   }
 }
 ```
+"# firebase_realtime" 
