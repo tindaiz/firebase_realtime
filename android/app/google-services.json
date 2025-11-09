@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "316219829725",
+    "firebase_url": "https://fir-realtime-2c115-default-rtdb.firebaseio.com",
+    "project_id": "fir-realtime-2c115",
+    "storage_bucket": "fir-realtime-2c115.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316219829725:android:53d351acf50d263315da34",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_realtime_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGvSmXiN8ssoq3qnWNUCZ3oqVjHZdHOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

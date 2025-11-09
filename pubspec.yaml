@@ -1,0 +1,16 @@
+name: flutter_firebase_realtime_app
+description: Demo app kết nối Firebase Realtime Database + Auth
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.3.5
+  firebase_database: ^11.3.10
+  firebase_storage: ^12.4.10
+
+flutter:
+  uses-material-design: true
